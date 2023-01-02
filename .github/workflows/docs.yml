@@ -25,6 +25,9 @@ jobs:
           # cache deps for npm
           cache: npm
 
+      - name: Install deps
+        run: npm install
+
       # run build script
       - name: Build VuePress site
         run: npm run docs:build
