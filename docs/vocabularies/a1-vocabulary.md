@@ -9,214 +9,46 @@
 
 **Phonetic respelling**
 
-> //
+> /aj-ik-tiv/
+
+<JsbaseWordImage word="Adjective" />
 
 **Audio**
 
-<JsbaseWordAudio word="Adjective"></JsbaseWordAudio>
+<JsbaseWordAudio word="Adjective" />
+
+**Audio Script**
+
+<JsbaseWordAudio word="adjective_script" />
 
 **Definition**
 
->
+> Grammar. any member of a class of words that modify nouns and pronouns, primarily by describing a particular quality of the word they are modifying, as wise in a wise man.
+
+> Other terms, as numbers (first cup; twelve months), certain demonstrative pronouns (this magazine; those questions), and terms that impose limits (each person; no mercy) can also function adjectivally, as can some nouns that are found chiefly in fixed phrases where they immediately precede the noun they modify, as bottle in bottle cap and bus in bus station.
 
 **Examples**
 
->
+> A wise man knows everything, a clever man knows everyone.
 
-### 2. Adverb
+> Messi has won his first world cup in his career at FIFA World Cup 2022.
 
-**Phonetic respelling**
+> This magazine always writes about Ronaldo.
 
-> //
+> Each person has some talents, gifts, or strengths that make him or her unique.
 
-**Audio**
+**Synonyms**
 
-<JsbaseWordAudio word="Adverb"></JsbaseWordAudio>
+- accessory
 
-**Definition**
+- attribute
 
->
+- additional
 
-**Examples**
+- descriptive
 
->
+- modifier
 
-### 3. Conjunction
+- qualifier
 
-**Phonetic respelling**
-
-> //
-
-**Audio**
-
-<JsbaseWordAudio word="Conjunction"></JsbaseWordAudio>
-
-**Definition**
-
->
-
-**Examples**
-
->
-
-### 4. Determiner
-
-**Phonetic respelling**
-
-> //
-
-**Audio**
-
-<JsbaseWordAudio word="Determiner"></JsbaseWordAudio>
-
-**Definition**
-
->
-
-**Examples**
-
->
-
-### 5. Discourse marker
-
-**Phonetic respelling**
-
-> //
-
-**Audio**
-
-<JsbaseWordAudio word="Discourse marker"></JsbaseWordAudio>
-
-**Definition**
-
->
-
-**Examples**
-
->
-
-### 6. Exclamation
-
-**Phonetic respelling**
-
-> //
-
-**Audio**
-
-<JsbaseWordAudio word="Exclamation"></JsbaseWordAudio>
-
-**Definition**
-
->
-
-**Examples**
-
->
-
-### 7. Interrogative
-
-**Phonetic respelling**
-
-> //
-
-**Audio**
-
-<JsbaseWordAudio word="Interrogative"></JsbaseWordAudio>
-
-**Definition**
-
->
-
-**Examples**
-
->
-
-### 8. Noun
-
-**Phonetic respelling**
-
-> //
-
-**Audio**
-
-<JsbaseWordAudio word="Noun"></JsbaseWordAudio>
-
-**Definition**
-
->
-
-**Examples**
-
->
-
-### 9. Possessive
-
-**Phonetic respelling**
-
-> //
-
-**Audio**
-
-<JsbaseWordAudio word="Possessive"></JsbaseWordAudio>
-
-**Definition**
-
->
-
-**Examples**
-
->
-
-### 10. Preposition
-
-**Phonetic respelling**
-
-> //
-
-**Audio**
-
-<JsbaseWordAudio word="Preposition"></JsbaseWordAudio>
-
-**Definition**
-
->
-
-**Examples**
-
->
-
-### 11. Pronoun
-
-**Phonetic respelling**
-
-> //
-
-**Audio**
-
-<JsbaseWordAudio word="Pronoun"></JsbaseWordAudio>
-
-**Definition**
-
->
-
-**Examples**
-
->
-
-### 12. Verb
-
-**Phonetic respelling**
-
-> //
-
-**Audio**
-
-<JsbaseWordAudio word="Verb"></JsbaseWordAudio>
-
-**Definition**
-
->
-
-**Examples**
-
->
+- identifier
