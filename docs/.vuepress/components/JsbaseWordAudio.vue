@@ -1,7 +1,5 @@
 <template>
-  <audio :controls="true" :autoplay="false">
-    <source :src="mediaSource" type="audio/ogg" />
-  </audio>
+  <JsbaseAudio :src="mediaSource"></JsbaseAudio>
 </template>
 
 <script>

@@ -227,4 +227,4 @@
 
 > A word we say when we see someone and want to greet them, or when we begin to talk on the phone
 
-<JsbaseAudio :relative-path="false" src="https://tts.langeek.co/read?text=aGVsbG8&hash=d1f66a7d200d18df8bc08774fbdab188b641b225&lang=en&cache-only=0"></JsbaseAudio>
+<JsbaseAudio src="https://tts.langeek.co/read?text=aGVsbG8&hash=d1f66a7d200d18df8bc08774fbdab188b641b225&lang=en&cache-only=0"></JsbaseAudio>
