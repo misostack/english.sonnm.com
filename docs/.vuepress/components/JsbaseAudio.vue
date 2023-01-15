@@ -1,7 +1,7 @@
 <template>
   <audio :controls="controls" :autoplay="autoplay">
-    <source :src="src" type="audio/ogg" />
     <source :src="src" type="audio/mpeg" />
+    <source :src="src" type="audio/ogg" />
   </audio>
 </template>
 
